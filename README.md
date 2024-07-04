@@ -39,9 +39,10 @@ Whether you are a seasoned architect or a budding developer, this session promis
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| This presentation has yet to be scheduled. | | | | | |
-
-## Resources
-There are no additional resources for this presentation.
+| [Momentum 2024](https://momentumdevcon.com/) | Cincinnati, OH | October 17, 2024 | TBA | TBA | Available Afterwards |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Navigating%20the%20Maze) to have Chad present this session at your event.
+
+## Resources
+
+There are no additional resources for this presentation.
