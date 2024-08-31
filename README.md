@@ -34,6 +34,17 @@ In software architecture, understanding why specific decisions are made is cruci
 - Understand how ADRs document architectural decisions with real-world examples.
 - Learn best practices for creating, managing, and evolving ADRs to support collaboration and maintain architectural integrity.
 
+## Preequisities
+Here are the prerequisites to attend the presentation “Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records”:
+
+- **Basic Understanding of Software Architecture**: Familiarity with fundamental concepts of software architecture, including architectural styles, patterns, and technologies.
+- **Experience with Software Development**: Practical experience in software development, as the session will discuss real-world examples and case studies.
+- **Interest in Documentation Practices**: A keen interest in learning about documentation practices, particularly Architecture Decision Records (ADRs).
+- **Collaboration Skills**: Willingness to engage in discussions and share experiences related to architectural decision-making and documentation.
+- **Open Mindset**: An open mindset to learn new techniques and best practices for creating, managing, and evolving ADRs.
+
+These prerequisites will help you get the most out of the session and actively participate in the discussions.
+
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |
