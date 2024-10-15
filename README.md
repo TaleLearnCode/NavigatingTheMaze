@@ -1,6 +1,6 @@
 # Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records
 
-![Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](Thumbnail.jpg)
+![Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records](thumbnail.jpg)
 
 ## Elevator Pitch
 Discover how Architecture Decision Records (ADRs) enhance communication in software architecture. Learn best practices and real-world applications.
@@ -34,7 +34,7 @@ In software architecture, understanding why specific decisions are made is cruci
 - Understand how ADRs document architectural decisions with real-world examples.
 - Learn best practices for creating, managing, and evolving ADRs to support collaboration and maintain architectural integrity.
 
-## Preequisities
+## Prerequisites
 Here are the prerequisites to attend the presentation “Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records”:
 
 - **Basic Understanding of Software Architecture**: Familiarity with fundamental concepts of software architecture, including architectural styles, patterns, and technologies.
@@ -49,7 +49,7 @@ These prerequisites will help you get the most out of the session and actively p
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [Momentum 2024](https://momentumdevcon.com/) | Cincinnati, OH | October 17, 2024 | TBA | TBA | Available Afterwards |
+| [Momentum 2024](https://momentumdevcon.com/) | Cincinnati, OH | October 17, 2024 | 12:40 PM EDT | River B | [Slides](Presentations\NavigatingTheMaze-Momentum2024.pdf) \| [ADR Examples](Demos\readme.md) |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Navigating%20the%20Maze) to have Chad present this session at your event.
 
