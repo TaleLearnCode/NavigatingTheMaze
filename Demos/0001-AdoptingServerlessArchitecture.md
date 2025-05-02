@@ -6,11 +6,11 @@
 
 ## Context and Problem
 
-As a tech startup, we need to build a scalable web application quickly to meet growing user demand. Traditional infrastructure solutions would require significant time and resources, which we cannot afford.
+As a tech startup, we must quickly build a scalable web application to meet growing user demand. Traditional infrastructure solutions would require significant time and resources, which we cannot afford.
 
 ## Decision Drivers
 
-- Need for rapid development and deployment to stay competitive
+- There is a need for rapid development and deployment to stay competitive.
 - Limited resources for managing infrastructure
 - Unpredictable traffic patterns requiring automatic scaling
 - Minimizing operational overhead to focus on core development
@@ -32,10 +32,10 @@ Chosen option: "Serverless Architecture (Azure Functions)," because it allowed t
 
 #### Implementation
 
-- Set up Azure Functions for backend processing
-- Integrate with other Azure services (API Management, Cosmos DB, etc.) as needed
-- Monitor performance and make adjustments as required
-- Train the team on serverless best practices and Azure tools
+- Set up Azure Functions for backend processing.
+- Integrate with other Azure services (API Management, Cosmos DB, etc.) as needed.
+- Monitor performance and make adjustments as required.
+- Train the team on serverless best practices and Azure tools.
 
 #### Confirmation
 
@@ -59,7 +59,7 @@ Chosen option: "Serverless Architecture (Azure Functions)," because it allowed t
 
 ### Traditional Server-Based Architecture
 
-- **Good, because:** Familiar to team, more control over infrastructure.
+- **Good, because:** Familiar to the team, more control over infrastructure.
 - **Bad, because:** Higher operational overhead, slower to scale, increased time-to-market.
 
 ### Containerized Microservices
