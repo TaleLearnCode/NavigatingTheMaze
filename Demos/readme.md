@@ -4,6 +4,7 @@ Examples included in this folder:
 
 - [Architecture Decision Record (ADR) Template](adr-template.md)
 - [0001 - Adopting Serverless Architecture](0001-AdoptingServerlessArchitecture.md)
+- [0001- Adopting Serverless Architecture (with BLUF)](0001-AdoptingServerlessArchitecture-WithBLUF.md)
 - [0002 - Use Cosmos DB NoSQL API for Project](0002-UseCosmosDBNoSQLAPIForProject.md)
 - [0003 - Use Azure Cloud for Speaker Management System](0003-UseAzureCloudForSpeakerManagementSystem.md)
 - [0004 - Using Architecture Decision Records for Documenting Architecture Decisions](0004-Using-Architecture-Decision-Records-for-Documenting-Architecture-Decisions.md)
@@ -11,4 +12,4 @@ Examples included in this folder:
 
 > [!NOTE]
 >
-> ADRs 0004 and 0005 are actual ADRs with minor changes in order to remove sensitive data.
+> ADRs 0004 and 0005 are actual ADRs with minor changes to remove sensitive data.

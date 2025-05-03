@@ -1,4 +1,4 @@
-# Hosting Options for Infinity Launch Pad
+# Hosting Options for Launch Pad
 
 - **Status:** Accepted
 - **Date:** 2024-09-03
@@ -6,21 +6,21 @@
 
 ## Context and Problem
 
-The Infinity Launch Pad application is currently an ASP.NET MVC application using .NET Framework 4.8, hosted on-premises. The application is functioning well, but there is a new requirement to make the site multilingual. Given the effort required to implement this feature, we are evaluating whether it makes sense to host the updated application in Azure or keep it on-premises.
+The Launch Pad application is an ASP.NET MVC application using .NET Framework 4.8, hosted on-premises. The application is functioning well, but a new requirement is to make the site multilingual. Given the effort required to implement this feature, we are evaluating whether hosting the updated application in Azure or keeping it on-premises makes sense.
 
 #### Multilingual Requirement
 
-The new requirement ([8286 - Ability to Translate the Infinity Launch Pad](https://dev.azure.com) involves supporting English and Spanish for the Infinity Launch Pad application. This includes:
+The new requirement ([8286 - Ability to Translate the Launch Pad](https://dev.azure.com) involves supporting English and Spanish for the Launch Pad application. This includes:
 
-- Translating all static content (e.g., labels, messages, and navigation links) into multiple languages.
+- All static content (e.g., labels, messages, and navigation links) is translated into multiple languages.
 - Implementing language selection functionality, allowing users to switch languages seamlessly.
 - Maintaining a consistent user experience across all supported languages.
 
 #### Technical Challenges of Multilingual Support
 
 - **Resource Management**: Managing resource files for each language, ensuring they are up-to-date and correctly referenced in the application.
-- **User Interface Adjustments**: Adapting the UI to accommodate different text lengths and reading directions (e.g., right-to-left languages - which is currently out of scope).
-- **Performance Considerations**: Ensuring that the addition of multilingual support does not negatively impact the application's performance.
+- **User Interface Adjustments**: Adapting the UI to accommodate different text lengths and reading directions (e.g., right-to-left languages, which is currently out of scope).
+- **Performance Considerations**: Ensuring that adding multilingual support does not negatively impact the application's performance.
 - **Testing and Quality Assurance**: Thoroughly testing the application in all supported languages to ensure accuracy and usability.
 
 #### Performance Considerations
@@ -40,17 +40,17 @@ The new requirement ([8286 - Ability to Translate the Infinity Launch Pad](https
 
 ## Considered Options
 
-- Host the Infinity Launch Pad app as is (ASP.NET MVC on .NET Framework 4.8) on Azure App Service.
-- Host the Infinity Launch Pad app as an ASP.NET MVC on Azure Container Apps (requires dockerizing the application).
-- Convert the Infinity Launch Pad app to a Blazor WASM application and host on Azure Static Web Apps.
-- Convert the Infinity Launch Pad app to a static website and host on Azure Static Web Apps.
+- Host the Launch Pad app as is (ASP.NET MVC on .NET Framework 4.8) on Azure App Service.
+- Host the Launch Pad app as an ASP.NET MVC on Azure Container Apps (requires dockerizing the application).
+- Convert the Launch Pad app to a Blazor WASM application and host it on Azure Static Web Apps.
+- Convert the Launch Pad app to a static website and host it on Azure Static Web Apps.
 - Convert to Blazor WASM and host on Azure App Service.
 - Convert to Blazor WASM and host on Azure Container Apps.
 - Leave the application hosted on-premises.
 
 ## Decision Outcome
 
-Chosen option: Convert the Infinity Launch Pad app to a static website and host on Azure Static Web Apps, because it is the simplest and most cost-effective option, offering easy global distribution with integrated CDN and minimal management overhead.
+The chosen option is to convert the Launch Pad app to a static website and host it on Azure Static Web Apps. This is the simplest and most cost-effective option, offering easy global distribution with integrated CDN and minimal management overhead.
 
 #### Consequences
 
@@ -79,7 +79,7 @@ Chosen option: Convert the Infinity Launch Pad app to a static website and host 
 
 ## Pros and Cons of the Options
 
-### Host the Infinity Launch Pad app as is (ASP.NET MVC .NET Framework 4.8) on Azure App Service
+### Host the Launch Pad app as is (ASP.NET MVC .NET Framework 4.8) on Azure App Service
 
 - **Projected Monthly Cost**: $73.00; assuming S1 Windows App Service (1 Core, 1.75-GB RAM, 50-Gb storage) in the Azure North Central US region.
 - Good, because minimal changes to the existing application.
@@ -88,7 +88,7 @@ Chosen option: Convert the Infinity Launch Pad app to a static website and host 
 - Bad, because potentially higher costs compared to static hosting options.
 - Bad, because requires ongoing management of the app service environment.
 
-### Convert the Infinity Launch Pad app to a Blazor WASM application and host on Azure Static Web Apps
+### Convert the Launch Pad app to a Blazor WASM application and host on Azure Static Web Apps
 
 - **Projected Cost**: Free (includes up to 100-Gb of bandwidth per subscription and 0.5-Gb of storage per app). If more than 100-Gb required, need to go to the Standard tier which is $9/per app/month and then $0.20 per GB over 100-Gb.
 - Good, because modern, client-side framework,
@@ -98,7 +98,7 @@ Chosen option: Convert the Infinity Launch Pad app to a static website and host 
 - Bad, because limited to client-side logic, which may not suit all use cases.
 - Bad, because daily download delays for users on thin clients connecting to virtual machines that are rebuilt every evening.
 
-### Convert the Infinity Launch Pad app to a static website and host on Azure Static Web Apps
+### Convert the Launch Pad app to a static website and host on Azure Static Web Apps
 
 - **Projected Cost**: Free (includes up to 100-Gb of bandwidth per subscription and 0.5-Gb of storage per app). If more than 100-Gb required, need to go to the Standard tier which is $9/per app/month and then $0.20 per GB over 100-Gb.
 - Good, because simplest and most cost-effective option.
