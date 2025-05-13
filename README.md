@@ -24,7 +24,7 @@ You will walk away with actionable guidelines for authoring, maintaining, and ev
 | ---------------------------------------------------- | :--------------: | ---------------: | -----------: | ----------: | -----------------------------------------------------------: |
 | [Beer City Code 2025](https://www.beercitycode.com/) | Grand Rapids, MI |   August 9, 2025 |          TBA |         TBA |                                         Available Afterwards |
 | [dev up 2025](https://devupconf.org/)                | St. Charles, MO  | August 6-8, 2025 |          TBA |         TBA |                                         Available Afterwards |
-| Jasper Engines (Private)                             |    Jasper, IN    |     May 13, 2025 |  3:00 PM EDT |      FRED 1 |                                         Available Afterwards |
+| Jasper Engines (Private)                             |    Jasper, IN    |     May 13, 2025 |  3:00 PM EDT |      FRED 1 | [Slides](EventMaterials/NavigatingTheMaze-DEV03.pdf) \|[ADR Examples](Demos/readme.md) |
 | [Stir Trek 2025](https://stirtrek.com/)              |   Columbus, OH   |      May 2, 2025 |  1:00 PM EDT | Black Widow | [Slides](EventMaterials/NavigatingTheMaze-StirTrek2025.pdf) \|[ADR Examples](Demos/readme.md) |
 | [Momentum 2024](https://momentumdevcon.com/)         |  Cincinnati, OH  | October 17, 2024 | 12:40 PM EDT |     River B | [Slides](EventMaterials/NavigatingTheMaze-Momentum2024.pdf) \| [ADR Examples](Demos/readme.md) |
 
