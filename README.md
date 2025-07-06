@@ -22,8 +22,9 @@ You will walk away with actionable guidelines for authoring, maintaining, and ev
 
 | Event                                                |     Location     |             Date |         Time |        Room |                                                    Downloads |
 | ---------------------------------------------------- | :--------------: | ---------------: | -----------: | ----------: | -----------------------------------------------------------: |
-| [Beer City Code 2025](https://www.beercitycode.com/) | Grand Rapids, MI |   August 9, 2025 |    11:00 EDT |    Room 229 |                                         Available Afterwards |
-| [dev up 2025](https://devupconf.org/)                | St. Charles, MO  |   August 7, 2025 |     2:45 CDT |    Room 101 |                                         Available Afterwards |
+| [Beer City Code 2025](https://www.beercitycode.com/) | Grand Rapids, MI |   August 9, 2025 | 11:00 AM EDT |    Room 229 |                                         Available Afterwards |
+| [dev up 2025](https://devupconf.org/)                | St. Charles, MO  |   August 7, 2025 |  2:45 PM CDT |    Room 101 |                                         Available Afterwards |
+| Louisville .NET Meetup                               |  Louisville, KY  |    June 26, 2025 |  6:30 PM EDT |    600 Room | [Slides](EventMaterials/NavigatingTheMaze-LouDotNet.pdf) \|[ADR Examples](Demos/readme.md) |
 | Jasper Engines (Private)                             |    Jasper, IN    |     May 13, 2025 |  3:00 PM EDT |      FRED 1 | [Slides](EventMaterials/NavigatingTheMaze-DEV03.pdf) \|[ADR Examples](Demos/readme.md) |
 | [Stir Trek 2025](https://stirtrek.com/)              |   Columbus, OH   |      May 2, 2025 |  1:00 PM EDT | Black Widow | [Slides](EventMaterials/NavigatingTheMaze-StirTrek2025.pdf) \|[ADR Examples](Demos/readme.md) |
 | [Momentum 2024](https://momentumdevcon.com/)         |  Cincinnati, OH  | October 17, 2024 | 12:40 PM EDT |     River B | [Slides](EventMaterials/NavigatingTheMaze-Momentum2024.pdf) \| [ADR Examples](Demos/readme.md) |
