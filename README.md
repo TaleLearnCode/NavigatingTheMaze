@@ -6,7 +6,7 @@
 
 ## Abstract
 
-Clarity in articulating design choices is the bedrock of successful software architecture. This session explores the transformative power of Architecture Decision Records (ADRs) as a tool to capture the nuanced "why" behind every architectural choice, from selecting a framework to defining a core pattern. Through compelling real-world examples, we deconstruct the essentials of ADRs, demonstrating how to document context, rationale, and consequences effectively.
+Clarity in articulating design choices is the bedrock of successful software architecture. This session explores the transformative power of Architecture Decision Records (ADRs) as a tool to capture the nuanced "why" behind every architectural choice, from selecting a framework to defining a core pattern. Through compelling real-world examples, we deconstruct the essentials of ADRs and demonstrate how to document context, rationale, and consequences effectively.
 
 You will walk away with actionable guidelines for authoring, maintaining, and evolving ADRs throughout your project’s lifecycle, equipping you with a blueprint for clear, confident communication. Whether you’re a seasoned architect refining complex decision processes or a developer venturing into architectural design, this talk will empower you to make your design rationale accessible and impactful.
 
@@ -22,8 +22,10 @@ You will walk away with actionable guidelines for authoring, maintaining, and ev
 
 | Event                                                |     Location     |             Date |         Time |        Room |                                                    Downloads |
 | ---------------------------------------------------- | :--------------: | ---------------: | -----------: | ----------: | -----------------------------------------------------------: |
-| [Beer City Code 2025](https://www.beercitycode.com/) | Grand Rapids, MI |   August 9, 2025 | 11:00 AM EDT |    Room 229 |                                         Available Afterwards |
-| [dev up 2025](https://devupconf.org/)                | St. Charles, MO  |   August 7, 2025 |  2:45 PM CDT |    Room 101 |                                         Available Afterwards |
+| [SDD](https://sddconf.com/)                          |    London, UK    |     May 13, 2026 |  4:00 PM BST |     Track 3 |                                         Available Afterwards |
+| [CodeStock](https://www.codestock.org/)              |  Knoxville, TN   |    April 9, 2025 |  3:00 PM EDT |        301C | [Slides](EventMaterials/NavigatingTheMaze-CodeStock2026.pdf) \|[ADR Examples](Demos/readme.md) |
+| [Beer City Code 2025](https://www.beercitycode.com/) | Grand Rapids, MI |   August 9, 2025 | 11:00 AM EDT |    Room 229 | [Slides](EventMaterials/NavigatingTheMaze-BeerCity2025.pdf) \|[ADR Examples](Demos/readme.md) |
+| [dev up 2025](https://devupconf.org/)                | St. Charles, MO  |   August 7, 2025 |  2:45 PM CDT |    Room 101 | [Slides](EventMaterials/NavigatingTheMaze-DevUp2025.pdf) \|[ADR Examples](Demos/readme.md) |
 | Louisville .NET Meetup                               |  Louisville, KY  |    June 26, 2025 |  6:30 PM EDT |    600 Room | [Slides](EventMaterials/NavigatingTheMaze-LouDotNet.pdf) \|[ADR Examples](Demos/readme.md) |
 | Jasper Engines (Private)                             |    Jasper, IN    |     May 13, 2025 |  3:00 PM EDT |      FRED 1 | [Slides](EventMaterials/NavigatingTheMaze-DEV03.pdf) \|[ADR Examples](Demos/readme.md) |
 | [Stir Trek 2025](https://stirtrek.com/)              |   Columbus, OH   |      May 2, 2025 |  1:00 PM EDT | Black Widow | [Slides](EventMaterials/NavigatingTheMaze-StirTrek2025.pdf) \|[ADR Examples](Demos/readme.md) |
