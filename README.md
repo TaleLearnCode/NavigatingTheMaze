@@ -22,7 +22,7 @@ You will walk away with actionable guidelines for authoring, maintaining, and ev
 
 | Event                                                |     Location     |             Date |         Time |        Room |                                                    Downloads |
 | ---------------------------------------------------- | :--------------: | ---------------: | -----------: | ----------: | -----------------------------------------------------------: |
-| [SDD](https://sddconf.com/)                          |    London, UK    |     May 13, 2026 |  4:00 PM BST |     Track 3 |                                         Available Afterwards |
+| [SDD](https://sddconf.com/)                          |    London, UK    |     May 13, 2026 |  4:00 PM BST |     Track 3 | [Slides](EventMaterials/NavigatingTheMaze-SDD2026.pdf)\| [ADR Examples](Demos/readme.md) |
 | [CodeStock](https://www.codestock.org/)              |  Knoxville, TN   |    April 9, 2025 |  3:00 PM EDT |        301C | [Slides](EventMaterials/NavigatingTheMaze-CodeStock2026.pdf) \|[ADR Examples](Demos/readme.md) |
 | [Beer City Code 2025](https://www.beercitycode.com/) | Grand Rapids, MI |   August 9, 2025 | 11:00 AM EDT |    Room 229 | [Slides](EventMaterials/NavigatingTheMaze-BeerCity2025.pdf) \|[ADR Examples](Demos/readme.md) |
 | [dev up 2025](https://devupconf.org/)                | St. Charles, MO  |   August 7, 2025 |  2:45 PM CDT |    Room 101 | [Slides](EventMaterials/NavigatingTheMaze-DevUp2025.pdf) \|[ADR Examples](Demos/readme.md) |
@@ -36,7 +36,3 @@ Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentat
 ## Resources
 
 There are no additional resources for this presentation.
-
-> [!IMPORTANT]
->
-> Marvel themes and characters inspire this presentation, but it is not affiliated with, endorsed by, or associated with Marvel, its subsidiaries, or any related entities. Black Widow, Thunderbolts, and other referenced elements are trademarks of Marvel and their respective owners.
