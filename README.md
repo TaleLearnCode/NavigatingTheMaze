@@ -22,14 +22,15 @@ You will walk away with actionable guidelines for authoring, maintaining, and ev
 
 | Event                                                |     Location     |             Date |         Time |        Room |                                                    Downloads |
 | ---------------------------------------------------- | :--------------: | ---------------: | -----------: | ----------: | -----------------------------------------------------------: |
-| [SDD](https://sddconf.com/)                          |    London, UK    |     May 13, 2026 |  4:00 PM BST |     Track 3 | [Slides](EventMaterials/NavigatingTheMaze-SDD2026.pdf)\| [ADR Examples](Demos/readme.md) |
-| [CodeStock](https://www.codestock.org/)              |  Knoxville, TN   |    April 9, 2025 |  3:00 PM EDT |        301C | [Slides](EventMaterials/NavigatingTheMaze-CodeStock2026.pdf) \|[ADR Examples](Demos/readme.md) |
-| [Beer City Code 2025](https://www.beercitycode.com/) | Grand Rapids, MI |   August 9, 2025 | 11:00 AM EDT |    Room 229 | [Slides](EventMaterials/NavigatingTheMaze-BeerCity2025.pdf) \|[ADR Examples](Demos/readme.md) |
-| [dev up 2025](https://devupconf.org/)                | St. Charles, MO  |   August 7, 2025 |  2:45 PM CDT |    Room 101 | [Slides](EventMaterials/NavigatingTheMaze-DevUp2025.pdf) \|[ADR Examples](Demos/readme.md) |
-| Louisville .NET Meetup                               |  Louisville, KY  |    June 26, 2025 |  6:30 PM EDT |    600 Room | [Slides](EventMaterials/NavigatingTheMaze-LouDotNet.pdf) \|[ADR Examples](Demos/readme.md) |
-| Jasper Engines (Private)                             |    Jasper, IN    |     May 13, 2025 |  3:00 PM EDT |      FRED 1 | [Slides](EventMaterials/NavigatingTheMaze-DEV03.pdf) \|[ADR Examples](Demos/readme.md) |
-| [Stir Trek 2025](https://stirtrek.com/)              |   Columbus, OH   |      May 2, 2025 |  1:00 PM EDT | Black Widow | [Slides](EventMaterials/NavigatingTheMaze-StirTrek2025.pdf) \|[ADR Examples](Demos/readme.md) |
-| [Momentum 2024](https://momentumdevcon.com/)         |  Cincinnati, OH  | October 17, 2024 | 12:40 PM EDT |     River B | [Slides](EventMaterials/NavigatingTheMaze-Momentum2024.pdf) \| [ADR Examples](Demos/readme.md) |
+| [Cincy Deliver 2026](https://www.cincydeliver.org/)                          |    Cincinnati, OH    |     July 24, 2026 |  4:00 PM EDT |     Sterling | [Slides](EventMaterials/NavigatingTheMaze-CincyDeliver2026.pdf) \| [ADR Examples](Demos/readme.md) |
+| [SDD](https://sddconf.com/)                          |    London, UK    |     May 13, 2026 |  4:00 PM BST |     Track 3 | [Slides](EventMaterials/NavigatingTheMaze-SDD2026.pdf) \| [ADR Examples](Demos/readme.md) |
+| [CodeStock](https://www.codestock.org/)              |  Knoxville, TN   |    April 9, 2025 |  3:00 PM EDT |        301C | [Slides](EventMaterials/NavigatingTheMaze-CodeStock2026.pdf) \| [ADR Examples](Demos/readme.md) |
+| [Beer City Code 2025](https://www.beercitycode.com/) | Grand Rapids, MI |   August 9, 2025 | 11:00 AM EDT |    Room 229 | [Slides](EventMaterials/NavigatingTheMaze-BeerCity2025.pdf) \| [ADR Examples](Demos/readme.md) |
+| [dev up 2025](https://devupconf.org/)                | St. Charles, MO  |   August 7, 2025 |  2:45 PM CDT |    Room 101 | [Slides](EventMaterials/NavigatingTheMaze-DevUp2025.pdf) \| [ADR Examples](Demos/readme.md) |
+| Louisville .NET Meetup                               |  Louisville, KY  |    June 26, 2025 |  6:30 PM EDT |    600 Room | [Slides](EventMaterials/NavigatingTheMaze-LouDotNet.pdf) \| [ADR Examples](Demos/readme.md) |
+| Jasper Engines (Private)                             |    Jasper, IN    |     May 13, 2025 |  3:00 PM EDT |      FRED 1 | [Slides](EventMaterials/NavigatingTheMaze-DEV03.pdf) \| [ADR Examples](Demos/readme.md) |
+| [Stir Trek 2025](https://stirtrek.com/)              |   Columbus, OH   |      May 2, 2025 |  1:00 PM EDT | Black Widow | [Slides](EventMaterials/NavigatingTheMaze-StirTrek2025.pdf) \| [ADR Examples](Demos/readme.md) |
+| [Momentum 2024](https://momentumdevcon.com/)         |  Cincinnati, OH  | October 17, 2024 | 12:40 PM EDT |     River B | [Slides](EventMaterials/NavigatingTheMaze-Momentum2024.pdf) \|  [ADR Examples](Demos/readme.md) |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Transform%20Your%20Cloud%20Architecture%20with%20These%20Messaging%20Patterns) to have Chad present this session at your event.
 
