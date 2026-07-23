@@ -2,6 +2,8 @@
 
 | Event                                                |     Location     |             Date |         Time |        Room |                                     Downloads |
 | ---------------------------------------------------- | :--------------: | ---------------: | -----------: | ----------: | --------------------------------------------: |
+| [Cincy Deliver 2026](https://www.cincydeliver.org/)                          |    Cincinnati, OH    |     July 24, 2026 |  4:00 PM EDT |     Sterling | [Slides](NavigatingTheMaze-CincyDeliver2026.pdf) |
+| [SDD](https://sddconf.com/)                          |    London, UK    |     May 13, 2026 |  4:00 PM BST |     Track 3 | [Slides](EventMaterials/NavigatingTheMaze-SDD2026.pdf) |
 | [CodeStock](https://www.codestock.org/)              |  Knoxville, TN   |    April 9, 2025 |  3:00 PM EDT |        301C | [Slides](NavigatingTheMaze-CodeStock2026.pdf) |
 | [Beer City Code 2025](https://www.beercitycode.com/) | Grand Rapids, MI |   August 9, 2025 | 11:00 AM EDT |    Room 229 |  [Slides](NavigatingTheMaze-BeerCity2025.pdf) |
 | [dev up 2025](https://devupconf.org/)                | St. Charles, MO  |   August 7, 2025 |  2:45 PM CDT |    Room 101 |     [Slides](NavigatingTheMaze-DevUp2025.pdf) |
